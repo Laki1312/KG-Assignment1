@@ -1,0 +1,10 @@
+# Virtual env
+.venv/
+
+# Data files (don’t push datasets)
+data/
+*.csv
+*.txt
+
+# Output files
+output/
